@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15865b</color>
+    <color name="colorPrimaryDark">#15865b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFechaNoticia">#FFFF6940</color>
+</resources>
